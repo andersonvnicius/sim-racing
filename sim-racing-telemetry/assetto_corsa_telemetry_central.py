@@ -9,7 +9,7 @@ import serial
 
 # assetto corsa UDP stuff
 ip = '127.0.0.1' # localhost ip
-udp_port = 9996
+udp_port = 9996  # udp port
 
 # arduino serial port stuff
 controller_port = 'COM81'
