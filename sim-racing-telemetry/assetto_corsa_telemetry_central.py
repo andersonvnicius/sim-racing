@@ -1,5 +1,5 @@
 """
-Script for sending Assetto Corsa UDP data to Arduino via Serial communication
+Script for gathering Assetto Corsa UDP data
 """
 
 import socket
