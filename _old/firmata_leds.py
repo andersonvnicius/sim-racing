@@ -1,3 +1,8 @@
+"""
+set up leds using the firmata protocol
+"""
+
+
 from pyfirmata import Arduino, util
 import time
 
